@@ -6,8 +6,20 @@
     <meta name="viewpoint" content="width=device-width,initial-scale=1">
     <title>loyal school</title>
     <!--link to css-->
-    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="loyalschool.css">
 </head>
 <body>
+    <nav>
+        <div id="nav-top">
+            <ul id="nav-list">
+                <li class="nav-sub">  <a href="loyalschool.html" class="nav-link">Home</a></li>
+                 <li class="nav-sub">  <a href="about.html" class="nav-link">About us</a></li>
+                 <li class="nav-sub">  <a href="academics.html"  class="nav-link" > Academics</a></li>
+                 <li class="nav-sub">  <a href="department.html"  class="nav-link">Departments</a></li>
+                 <li class="nav-sub">  <a href="sports.html"  class="nav-link">Sports<br>Clubs and societies</a></li>
+                 <li class="nav-sub">  <a href="contact.html"  class="nav-link"> Contact us</a></li>
+            </ul>
+        </div>
+    </nav>
 
 </body>
